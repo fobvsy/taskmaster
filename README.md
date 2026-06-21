@@ -233,6 +233,7 @@ Dokumentasi pengujian black box tersedia di file [`desain_testing_black_box.md`]
 
 ## 👨‍💻 Pengembang
 
+Made By Fobvsy and team
 Proyek ini dikembangkan sebagai tugas mata kuliah **Rekayasa Perangkat Lunak**.
 
 ---
